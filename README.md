@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Risheek
-**Cybersecurity Enthusiast | Networking & Ethical Hacking | Tech Explorer**
 
 I'm a passionate cybersecurity student, currently building my skills in **network security, penetration testing, and automation.** I love working with **Kali Linux, Nmap, Wireshark, and Python for security tools** while also strengthening my **networking fundamentals (CCNA, Packet Tracer).**
 
